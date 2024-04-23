@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Sticky Notes</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account_register">Don\'t have an account? Register</string>
+    <string name="user_name">User Name</string>
+    <string name="register">Register</string>
+    <string name="i_have_account_login">I have account ? Login</string>
+
+    <string name="nameIsRequired">Username is required !</string>
+    <string name="emailIsRequired">Email is required !</string>
+    <string name="please_enter_valid_email">Please enter valid email !</string>
+    <string name="passwordIsRequired">Password is  required !</string>
+    <string name="minimumLength">Minimum Password Length 8</string>
+
+    <string name="AlreadyRegistered">This account is already registered</string>
+    <string name="noConnection">No Connection</string>
+    <string name="successRegistered">Successfully Registered</string>
+    <string name="successLogin">Successfully Login</string>
+    <string name="userNotFound">This user not found !!!</string>
+    <string name="passwordIncorrect">Password incorrect !!!</string>
+    <string name="save">Save</string>
+    <string name="update_successfully">Update Successfully</string>
+    <string name="logout">Logout</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_description">Note Description</string>
+    <string name="update_note">Update Note</string>
+    <string name="note_title_is_required">Note Title Is Required</string>
+    <string name="note_description_is_required">Note Description Is Required</string>
+    <string name="save_note_successfully">Save Note Successfully</string>
+    <string name="are_your_sure_delete">Are Your Sure Delete ?</string>
+    <string name="delete">Deleted Done</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <string name="color_1">Olive</string>
+    <string name="color_2">Green</string>
+    <string name="color_3">Orange</string>
+    <string name="color_4">Gray</string>
+    <string name="notes">Notes</string>
+
+</resources>
