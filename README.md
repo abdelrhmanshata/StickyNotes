@@ -6,8 +6,8 @@ StickyNotes is a user-friendly note-taking application designed for Android devi
 
 Key Features:
 
-*User Authentication: 
--StickyNotes includes user authentication functionality powered by Firebase Authentication. Users can sign up for a new account, log in securely, and reset their passwords if needed.
+* User Authentication: 
+- StickyNotes includes user authentication functionality powered by Firebase Authentication. Users can sign up for a new account, log in securely, and reset their passwords if needed.
 
 Note Creation and Editing: Users can create new notes with a title and content, edit existing notes, and delete notes when no longer needed. 
 Note Organization: StickyNotes provides options to organize notes into categories or folders, helping users keep their notes organized and easily accessible. Users can create, rename, and delete folders as per their preferences.
