@@ -20,14 +20,12 @@ Key Features:
 * - Firebase Authentication: For user authentication and secure sign-in functionality.
 * - Firebase Realtime Database: To store and synchronize note data in real time across devices.
 
-Project Goals:
-Develop a robust and intuitive note-taking application with a focus on user experience and data security.
-Implement seamless integration with Firebase services for authentication, data storage, and synchronization.
+* Project Goals:
+* - Develop a robust and intuitive note-taking application with a focus on user experience and data security.
+* - Implement seamless integration with Firebase services for authentication, data storage, and synchronization.
 
-Target Audience:
-StickyNotes targets students, professionals, and anyone who needs a reliable and feature-rich note-taking app to capture and organize their thoughts, ideas, and tasks effectively.
+* Target Audience:
+* - StickyNotes targets students, professionals, and anyone who needs a reliable and feature-rich note-taking app to capture and organize their thoughts, ideas, and tasks effectively.
 
-
-
-
+* - Video 
 https://github.com/abdelrhmanshata/StickyNotes/assets/36518291/f5fadf8e-9a71-4c9a-87a4-184e4da956ea
