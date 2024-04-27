@@ -25,7 +25,9 @@ Key Features:
 * - Implement seamless integration with Firebase services for authentication, data storage, and synchronization.
 
 * Target Audience:
-* - StickyNotes targets students, professionals, and anyone who needs a reliable and feature-rich note-taking app to capture and organize their thoughts, ideas, and tasks effectively.
+ - StickyNotes targets students, professionals, and anyone who needs a reliable and feature-rich note-taking app to capture and organize their thoughts, ideas, and tasks effectively.
+
+
 
 * - Video
     
